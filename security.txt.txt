@@ -1,0 +1,4 @@
+Contact: mailto:your.email@jaysonkirenga.com
+Encryption: https://jayson8790.github.io/jayson-portifolio-2.0/pgp-key.txt
+Acknowledgements: https://jayson8790.github.io/jayson-portifolio-2.0/hall of thanks
+Preferred-Languages: english
